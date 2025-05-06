@@ -1,5 +1,5 @@
 # 1stProjectOnGit
 <br>
-This is just demo for git adding small first project
+Added first project in order to understand Github, Git works.
 <br>
 Author - Akshay Gaikwad
